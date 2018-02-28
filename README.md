@@ -1,2 +1,3 @@
 # rprojects
-Doing research in RStudio with projects and RMarkdown
+
+This is an R presentation on how to use RStudio projects to organise research.
